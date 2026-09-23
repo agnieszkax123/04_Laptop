@@ -19,4 +19,19 @@ public class Laptop
    {
        neu = neuNeu;
    }
+   
+   public String getHersteller()
+   {
+       return hersteller;
+   }
+   
+   public int getKosten()
+   {
+       return kosten;
+   }
+   
+   public boolean getNeu()
+   {
+       return neu;
+   }
 }
